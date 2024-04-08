@@ -41,7 +41,7 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi/" rel="noreferrer">
+  <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi/" rel="noreferrer" target="_blank">
     <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
