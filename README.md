@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fourati</h1>
-<h3 align="center"> Data Engineering Intern at OliveSoft | Final-Year Engineering Student at ENET'Com | IEEE Volunteer <br> Web Development Enthusiast (Angular - SpringBoot) </h3>
+<h3 align="center"> Data Engineer | Data Integration | Talend | Azure DataBricks | IEEE Volunteer <br> Web Development Enthusiast (Angular - SpringBoot) </h3>
 
 <h3 align="left">Connect with me:</h3>
 
